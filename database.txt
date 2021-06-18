@@ -1,0 +1,7 @@
+database.txt
+
+x@x.com,ss,ssasaa
+x@x.com,ss,ssasaa
+,,
+x@x.com,hggg,hhgg
+x@x.com,hggg,hhgg
